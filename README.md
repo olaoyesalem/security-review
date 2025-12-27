@@ -35,7 +35,11 @@ Total Findings: 22
 
 ## 💼 Private & Invitational Audits
 
-Available upon request. I've participated in multiple private security reviews for protocols requiring confidential assessments.
+I've conducted several private security audits for protocols. Detailed reports are available in the [PrivateAudits/ directory](https://github.com/olaoyesalem/security-review/tree/main/PrivateAudits/cashVault12-2025):
+
+- CashVault Protocol 2025 - Comprehensive security review of CashVault smart contracts
+
+Report: [Security-Review-of-CashVault-Protocol.pdf](https://github.com/olaoyesalem/security-review/blob/main/PrivateAudits/cashVault12-2025/Security-Review-of-CashVault-Protocol.pdf)
 
 ## 🎯 Areas of Expertise
 
