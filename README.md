@@ -23,13 +23,14 @@ Repository showcasing my journey and achievements as an independent blockchain s
 | 07.2024 | 1M | CodeHawks | Ark Project | [Report](https://codehawks.cyfrin.io/c/2024-07-ark-project/s/14) |
 | 05.2024 | 1M | Sherlock | Elfi Protocol | [Issue #262](https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/262) |
 | 02.2024 | 3M | Code4rena | AI Arena | [Issue #376](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/376), [Issue #43](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/43) |
+| 12.2024 | 5H, 1M   | DualsGuard | Alignerz | Private | 
 
 ## 🔍 Vulnerability Breakdown
 
 ```
-Total Findings: 22
-├── High Risk: 6
-├── Medium Risk: 12
+Total Findings: 28
+├── High Risk: 11
+├── Medium Risk: 13
 └── Low Risk: 4
 ```
 
