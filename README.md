@@ -24,7 +24,7 @@ Repository showcasing my journey and achievements as an independent blockchain s
 | 05.2024 | 1M | Sherlock | Elfi Protocol | [Issue #262](https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/262) |
 | 02.2024 | 3M | Code4rena | AI Arena | [Issue #376](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/376), [Issue #43](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/43) |
 | 12.2025| 5H, 1M   | DualsGuard | Alignerz | Private | 
-| 12.2025 | 1M   | Code4rena | Sukufi | Private | 
+| 12.2025 | 1M   | Code4rena | Sukufi | https://code4rena.com/audits/2025-11-sukukfi/submissions?page=1&filter=awardable&search=Nyx | 
 
 ## 🔍 Vulnerability Breakdown
 
